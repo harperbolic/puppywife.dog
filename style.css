@@ -1,0 +1,36 @@
+body {
+    background-image: url("bg2.jpg");
+  }
+
+* {
+    text-align: center;
+}
+
+.outer {
+    display: flex;
+}
+
+div {
+    margin: auto;
+    width: 40%;
+    border: 3px solid aliceblue;
+    background-color: #f0f8ff;
+}
+
+ul {
+    list-style-type: lower-roman;
+    color: black;
+}
+
+#right {
+    text-align: right;
+}
+
+.ollie {
+    width: 90%;
+    border: 15px solid pink;
+}
+
+.hrt {
+    width: 15%;
+}
